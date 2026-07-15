@@ -1,4 +1,4 @@
-# LEARN_PYTHON
+# learn-python
 
 This repository is dedicated to my journey of mastering Python, from core fundamentals to advanced automation concepts. It serves as a personal laboratory for experiments, logic building, and technical documentation.
 
